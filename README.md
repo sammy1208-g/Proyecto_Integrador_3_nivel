@@ -22,7 +22,7 @@ Se agregarán cuando exista el código de la aplicación.
 Este proyecto usa la licencia MIT (preliminar). Ver el archivo LICENSE.
 
 ## Créditos y uso de IA
-Utilizamos Claude (Anthropic) como guía para organizar el proyecto, revisar la redacción, ordenar los documentos y explicar conceptos. Las decisiones del proyecto las tomó el equipo, y revisamos todo el contenido antes de entregarlo.
+Utilizamos Claude (Anthropic) como apoyo para que sea una guía sobre organización del proyecto, revisar la redacción, ordenar el documento y explicar ciertos conceptos ambiguos. Las decisiones que se tomaron fueron la selección del proyecto, actores y usuarios y otros; y revisamos todo el contenido antes de entregarlo.
 
 ## Autores
 - Samantha Chamorro: Coordinación y Documentación, Infraestructura y seguridad
