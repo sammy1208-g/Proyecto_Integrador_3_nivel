@@ -28,3 +28,7 @@ Utilizamos Claude (Anthropic) como apoyo para que sea una guía sobre organizaci
 - Samantha Chamorro: Coordinación y Documentación, Infraestructura y seguridad
 - Jeniffer Condor: Coordinación y Documentación, Desarrollo de la aplicación
 - Luis Quisnancela: Infraestructura y Seguridad, Desarrollo de la aplicación
+
+- Video fase 1
+- https://youtu.be/SZ02d5b7oJc
+  
