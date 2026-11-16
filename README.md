@@ -3,6 +3,9 @@
 Plataforma empresarial distribuida para una empresa de soluciones tecnológicas con dos sedes. Este repositorio contiene el componente de aplicación: un sistema de gestión de correos internos con arquitectura cliente-servidor en Go, que se integra con un servicio de autenticación en FastAPI.
 
 ## Estado del proyecto
+## Fase 3: Diseño 
+Documento del diseño preliminar del sistema de gestión de correos internos:
+- [Documento Fase 3- POO](docs/Fase3_POO_Grupo6.pdf)
 ## Fase 2: Análisis y requisitos
 Documento de análisis y requisitos de la aplicación de gestión de correos internos:
 
